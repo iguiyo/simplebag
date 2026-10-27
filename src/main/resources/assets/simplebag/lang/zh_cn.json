@@ -1,0 +1,9 @@
+{
+	"item.simplebag.package_box": "打包盒",
+	"container.simplebag.package_box": "打包盒",
+	"tooltip.simplebag.empty": "空空如也",
+	"tooltip.simplebag.summary": "内容物：%s 件 / %s 种",
+	"tooltip.simplebag.entry": "• %s ×%s",
+	"tooltip.simplebag.more": "…另有 %s 种未显示",
+	"tooltip.simplebag.forbidden_hint": "容器类物品无法装入"
+}

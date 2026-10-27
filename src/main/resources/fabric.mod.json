@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "simplebag",
+  "version": "${version}",
+  "name": "Simple Package Box",
+  "description": "A 120-slot, single-stack package box with a readable contents tooltip and container-nesting protection.",
+  "authors": [
+    "Simplebag Contributors"
+  ],
+  "license": "CC0-1.0",
+  "icon": "assets/simplebag/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.simplebag.Simplebag"
+    ],
+    "client": [
+      "com.simplebag.client.SimplebagClient"
+    ]
+  },
+  "depends": {
+		"fabricloader": ">=0.19.5",
+    "minecraft": "~26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

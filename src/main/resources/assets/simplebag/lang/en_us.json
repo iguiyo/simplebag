@@ -1,0 +1,9 @@
+{
+	"item.simplebag.package_box": "Package Box",
+	"container.simplebag.package_box": "Package Box",
+	"tooltip.simplebag.empty": "Empty",
+	"tooltip.simplebag.summary": "Contents: %s items / %s types",
+	"tooltip.simplebag.entry": "• %s ×%s",
+	"tooltip.simplebag.more": "…and %s more types",
+	"tooltip.simplebag.forbidden_hint": "Container items cannot be packed"
+}
